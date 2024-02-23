@@ -1,0 +1,98 @@
+{
+    "provinces": [
+      { "id": 1, "name": "Western Cape" },
+      { "id": 2, "name": "Northern Cape" },
+      { "id": 3, "name": "Gauteng" },
+      { "id": 4, "name": "Limpopo" },
+      { "id": 5, "name": "Eastern Cape" },
+      { "id": 6, "name": "North West" },
+      { "id": 7, "name": "Mpumalanga" },
+      { "id": 8, "name": "Kwa-Zulu Natal" },
+      { "id": 9, "name": "Free State" }
+
+    ],
+
+    "municipalities": [
+        { "id": 1, "name": "City of Johannesburg Metropolitan Municipality", "provinceId": 3 },
+        { "id": 2, "name": "Sedibeng District Municipality", "provinceId": 3 },
+        { "id": 3, "name": "Ekurhuleni Metropolitan Municipality", "provinceId": 3 },
+        { "id": 4, "name": "City of Tshwane Metropolitan Municipality", "provinceId": 3 },
+        { "id": 5, "name": "Cape Town Metropolitan Municipality", "provinceId": 1 },
+        { "id": 6, "name": "Stellenbosch Municipality", "provinceId": 1 },
+        { "id": 7, "name": "Kimberley Municipality", "provinceId": 2 },
+        { "id": 8, "name": "Polokwane Municipality", "provinceId": 4 },
+        { "id": 9, "name": "Port Elizabeth Metropolitan Municipality", "provinceId": 5 },
+        { "id": 10, "name": "Mahikeng Local Municipality", "provinceId": 6 },
+        { "id": 11, "name": "Nelspruit Municipality", "provinceId": 7 },
+        { "id": 12, "name": "Durban Metropolitan Municipality", "provinceId": 8 },
+        { "id": 13, "name": "Bloemfontein Metropolitan Municipality", "provinceId": 9 }
+      
+    ],
+
+    "towns" : [
+        { "id": 1, "name": " Meyerton", "municipalityId": 7 },
+        { "id": 2, "name": " Vereeniging", "municipalityId": 7 },
+        { "id": 3, "name": " Vanderbijlpark", "municipalityId": 7 },
+        { "id": 4, "name": " Midrand", "municipalityId": 6 },
+        { "id": 5, "name": " Sandton", "municipalityId": 6 },
+        { "id": 6, "name": " Roodepoort", "municipalityId": 6 },
+        { "id": 7, "name": " Randburg", "municipalityId": 6 },
+        { "id": 8, "name": " Alberton", "municipalityId": 8 },
+        { "id": 9, "name": " Springs", "municipalityId": 8 },
+        { "id": 10, "name": " Benoni", "municipalityId": 8 },
+        { "id": 11, "name": " Boksburg", "municipalityId": 8 },
+        { "id": 12, "name": " Germiston", "municipalityId": 8 },
+        { "id": 13, "name": " Kempton Park", "municipalityId": 8 }
+
+
+
+
+    
+        ],
+        "areas" : [
+            { "id": 1, "name": " A", "townId": 1 },
+            { "id": 2, "name": " B", "townId": 1 },
+            { "id": 3, "name": " C", "townId": 2 },
+            { "id": 4, "name": " D", "townId": 1 },
+            { "id": 5, "name": " E", "townId": 1 },
+            { "id": 6, "name": " F", "townId": 3 },
+            { "id": 7, "name": " G", "townId": 1 },
+            { "id": 8, "name": " H", "townId": 1 },
+            { "id": 9, "name": " I", "townId": 2 },
+            { "id": 10, "name": " A", "townId": 1 },
+            { "id": 11, "name": " B", "townId": 1 },
+            { "id": 12, "name": " C", "townId": 2 },
+            { "id": 13, "name": " D", "townId": 1 },
+            { "id": 14, "name": " E", "townId": 1 },
+            { "id": 15, "name": " F", "townId": 3 },
+            { "id": 16, "name": " G", "townId": 1 },
+            { "id": 17, "name": " H", "townId": 1 },
+            { "id": 18, "name": " I", "townId": 2 }
+
+    
+        ],
+
+
+
+        "criteria" :[
+
+            { "id": 1, "name": "No Income" },
+            { "id": 2, "name": "Live in Disaster Area" },
+            { "id": 3, "name": "Disabled Persons" },
+            { "id": 4, "name": "Preference - Stand" },
+            { "id": 5, "name": "Not Selected for Allocation" },
+            { "id": 6, "name": "Child Headed Households" },
+            { "id": 7, "name": "Aged Members (60+)" },
+            { "id": 8, "name": "Special Needs" },
+            { "id": 9, "name": "Widows" },
+            { "id": 10, "name": "Households with children" },
+            { "id": 11, "name": "Aged Members (80+)" },
+            { "id": 12, "name": "Preference - House" },
+            { "id": 13, "name": "Disabled Persons" },
+            { "id": 14, "name": "Widowers" }
+
+        ]
+
+
+
+  }
